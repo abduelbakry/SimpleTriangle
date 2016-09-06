@@ -55,7 +55,7 @@ public class Triangle implements Shape {
 
 	@Override
 	public List<Double> calculateAngles(List<Double> sides) {
-		// TODO Auto-generated method stub
+		sides.forEach(System.out::println);
 		return null;
 	}
 
