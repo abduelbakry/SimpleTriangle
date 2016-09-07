@@ -43,6 +43,7 @@ public class Triangle implements Shape {
 	 */
 	public List<Double> getShapeSides() {
 		return shapeSides;
+		
 	}
 
 	/**
